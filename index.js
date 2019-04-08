@@ -1,2 +1,8 @@
 // write your code below!
-function happyHolidays("Happy Holidays!")
+function happyHolidays(){
+  console.log ("appy Holidays!")
+}
+
+function happyHolidaysTo(){
+  
+}
